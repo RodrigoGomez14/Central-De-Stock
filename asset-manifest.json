@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Central-De-Stock/static/css/main.978a5d00.chunk.css",
+    "main.js": "/Central-De-Stock/static/js/main.90958e1f.chunk.js",
+    "main.js.map": "/Central-De-Stock/static/js/main.90958e1f.chunk.js.map",
+    "runtime-main.js": "/Central-De-Stock/static/js/runtime-main.d5a922b7.js",
+    "runtime-main.js.map": "/Central-De-Stock/static/js/runtime-main.d5a922b7.js.map",
+    "static/css/2.60047b74.chunk.css": "/Central-De-Stock/static/css/2.60047b74.chunk.css",
+    "static/js/2.92baccef.chunk.js": "/Central-De-Stock/static/js/2.92baccef.chunk.js",
+    "static/js/2.92baccef.chunk.js.map": "/Central-De-Stock/static/js/2.92baccef.chunk.js.map",
+    "index.html": "/Central-De-Stock/index.html",
+    "precache-manifest.4e357fce5b43ab1d10539e13f6c7bb13.js": "/Central-De-Stock/precache-manifest.4e357fce5b43ab1d10539e13f6c7bb13.js",
+    "service-worker.js": "/Central-De-Stock/service-worker.js",
+    "static/css/2.60047b74.chunk.css.map": "/Central-De-Stock/static/css/2.60047b74.chunk.css.map",
+    "static/css/main.978a5d00.chunk.css.map": "/Central-De-Stock/static/css/main.978a5d00.chunk.css.map",
+    "static/media/logo.png": "/Central-De-Stock/static/media/logo.cf936f02.png",
+    "static/media/projectManagement.jpg": "/Central-De-Stock/static/media/projectManagement.6d29eb92.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d5a922b7.js",
+    "static/css/2.60047b74.chunk.css",
+    "static/js/2.92baccef.chunk.js",
+    "static/css/main.978a5d00.chunk.css",
+    "static/js/main.90958e1f.chunk.js"
+  ]
+}
