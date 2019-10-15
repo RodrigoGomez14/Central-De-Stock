@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/Central-De-Stock/static/css/main.de7511f1.chunk.css",
-    "main.js": "/Central-De-Stock/static/js/main.21d2fbf6.chunk.js",
-    "main.js.map": "/Central-De-Stock/static/js/main.21d2fbf6.chunk.js.map",
+    "main.css": "/Central-De-Stock/static/css/main.b7b1f493.chunk.css",
+    "main.js": "/Central-De-Stock/static/js/main.7c4e016f.chunk.js",
+    "main.js.map": "/Central-De-Stock/static/js/main.7c4e016f.chunk.js.map",
     "runtime-main.js": "/Central-De-Stock/static/js/runtime-main.d5a922b7.js",
     "runtime-main.js.map": "/Central-De-Stock/static/js/runtime-main.d5a922b7.js.map",
-    "static/css/2.60047b74.chunk.css": "/Central-De-Stock/static/css/2.60047b74.chunk.css",
-    "static/js/2.62beebc2.chunk.js": "/Central-De-Stock/static/js/2.62beebc2.chunk.js",
-    "static/js/2.62beebc2.chunk.js.map": "/Central-De-Stock/static/js/2.62beebc2.chunk.js.map",
+    "static/css/2.cf3f8f68.chunk.css": "/Central-De-Stock/static/css/2.cf3f8f68.chunk.css",
+    "static/js/2.8a865f2a.chunk.js": "/Central-De-Stock/static/js/2.8a865f2a.chunk.js",
+    "static/js/2.8a865f2a.chunk.js.map": "/Central-De-Stock/static/js/2.8a865f2a.chunk.js.map",
     "index.html": "/Central-De-Stock/index.html",
-    "precache-manifest.3d2992d1c784412c0066a186747c4b8f.js": "/Central-De-Stock/precache-manifest.3d2992d1c784412c0066a186747c4b8f.js",
+    "precache-manifest.6f19e477740ea1e15cf42e0f606946ab.js": "/Central-De-Stock/precache-manifest.6f19e477740ea1e15cf42e0f606946ab.js",
     "service-worker.js": "/Central-De-Stock/service-worker.js",
-    "static/css/2.60047b74.chunk.css.map": "/Central-De-Stock/static/css/2.60047b74.chunk.css.map",
-    "static/css/main.de7511f1.chunk.css.map": "/Central-De-Stock/static/css/main.de7511f1.chunk.css.map",
+    "static/css/2.cf3f8f68.chunk.css.map": "/Central-De-Stock/static/css/2.cf3f8f68.chunk.css.map",
+    "static/css/main.b7b1f493.chunk.css.map": "/Central-De-Stock/static/css/main.b7b1f493.chunk.css.map",
     "static/media/logo.png": "/Central-De-Stock/static/media/logo.cf936f02.png",
     "static/media/projectManagement.jpg": "/Central-De-Stock/static/media/projectManagement.6d29eb92.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.d5a922b7.js",
-    "static/css/2.60047b74.chunk.css",
-    "static/js/2.62beebc2.chunk.js",
-    "static/css/main.de7511f1.chunk.css",
-    "static/js/main.21d2fbf6.chunk.js"
+    "static/css/2.cf3f8f68.chunk.css",
+    "static/js/2.8a865f2a.chunk.js",
+    "static/css/main.b7b1f493.chunk.css",
+    "static/js/main.7c4e016f.chunk.js"
   ]
 }
