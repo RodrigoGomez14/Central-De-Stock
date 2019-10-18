@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5a530933293083161e6d54cb5e28e2aa",
+    "revision": "79da8af2ce1ef45f8740fb4be869eb48",
     "url": "/Central-De-Stock/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Central-De-Stock/static/css/2.cf3f8f68.chunk.css"
   },
   {
-    "revision": "6556cc2072f6bc77381c",
+    "revision": "cbc2a27d338180b647d6",
     "url": "/Central-De-Stock/static/css/main.fd65f050.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Central-De-Stock/static/js/2.f1b6f712.chunk.js"
   },
   {
-    "revision": "6556cc2072f6bc77381c",
-    "url": "/Central-De-Stock/static/js/main.eaa05b6e.chunk.js"
+    "revision": "cbc2a27d338180b647d6",
+    "url": "/Central-De-Stock/static/js/main.84fdc1ad.chunk.js"
   },
   {
     "revision": "4828e54dd672f57dfd56",
